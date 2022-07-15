@@ -1,0 +1,30 @@
+body {
+  background-color: purple;
+padding-left:3px}
+
+h1 {
+  color:yellow
+}
+
+h3{
+    
+  color:yellow
+}
+
+h4{
+  color:white
+}
+
+
+div { 
+border: 1px solid red;
+  
+  background-color:green}
+  
+p {
+  background-color:yellow;     
+
+
+  font-family:Helvetica; 
+  
+  color:red}
